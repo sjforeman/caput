@@ -112,7 +112,7 @@ class ro_dict(Mapping):
     a normal dictionary.
 
     Provides the same interface for reading as the builtin python
-    :class:`dict`s but no methods for writing.
+    :class:`dict` but no methods for writing.
 
     Parameters
     ----------
